@@ -11,7 +11,7 @@ AddVantage is a tool that tries its best to gain an edge over sportsbook. Using 
 ## Planned Features
 
 - [ ] Allow users to subscribe to entire sports, specific leagues, or specific teams
-- Improve README, adding badges and such
+- [ ] Improve README, adding badges and such
 - [ ] Replace algorithm with AI that runs own simulation to improve betting ability
 
 ## Milestones
